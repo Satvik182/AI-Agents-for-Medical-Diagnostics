@@ -1,0 +1,37 @@
+Medical Case Report
+
+Patient ID: 100527
+Name: Neha Sharma
+Age: 29
+Gender: Female
+Date of Report: 2025-03-18
+
+Chief Complaint:
+
+The patient reports episodes of breathlessness, chest tightness, and dizziness occurring mainly during stressful situations.
+
+Medical History:
+
+Family History: Mother with anxiety disorder
+
+Personal Medical History: No major physical illnesses
+
+Lifestyle Factors: High work-related stress, irregular sleep schedule
+
+Medications: None
+
+Recent Lab and Diagnostic Results:
+
+Pulmonary Function Test: Normal
+
+ECG: Normal sinus rhythm
+
+Blood Tests: No abnormalities detected
+
+Physical Examination Findings:
+
+Vital Signs: BP 112/74 mmHg, HR 88 bpm, BMI 22.3
+
+Respiratory Exam: Normal breath sounds
+
+Neurological Exam: No focal deficits

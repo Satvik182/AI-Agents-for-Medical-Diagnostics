@@ -1,0 +1,37 @@
+Medical Case Report
+
+Patient ID: 100451
+Name: Rohan Mehta
+Age: 36
+Gender: Male
+Date of Report: 2025-03-12
+
+Chief Complaint:
+
+The patient presents with intermittent chest discomfort, palpitations, and shortness of breath over the past 4 months.
+
+Medical History:
+
+Family History: Father with hypertension
+
+Personal Medical History: No known chronic illnesses
+
+Lifestyle Factors: Sedentary job, moderate caffeine intake
+
+Medications: None
+
+Recent Lab and Diagnostic Results:
+
+ECG: Occasional premature ventricular contractions (PVCs)
+
+Echocardiogram: Normal cardiac structure
+
+CBC: Within normal limits
+
+Physical Examination Findings:
+
+Vital Signs: BP 128/82 mmHg, HR 92 bpm, BMI 24.6
+
+Cardiovascular Exam: Regular rhythm with occasional skipped beats
+
+Respiratory Exam: Clear lung fields
