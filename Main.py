@@ -77,7 +77,8 @@ def main():
         final_diagnosis = "Diagnosis could not be generated due to agent failure."
 
     final_diagnosis_text = "### Final Diagnosis:\n\n" + final_diagnosis
-    txt_output_path = os.path.join("Results", "final_diagnosis.txt")
+    report_name = os.path.splitext(os.path.basename(report_path))[0]
+    txt_output_path = os.path.join("Results", f"{report_name} - Diagnosis.txt")
 
     # Ensure the directory exists
     os.makedirs(os.path.dirname(txt_output_path), exist_ok=True)
